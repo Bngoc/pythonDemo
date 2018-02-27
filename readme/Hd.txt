@@ -1,0 +1,13 @@
+
+0. install python
+	-> pip install Scrapy
+	-> pip install virtualenv
+1. touch requirements.txt
+2. pip install -r requirements.txt
+3. scrapy startproject scraper
+
+
+
+
+I. cmd
+	1.  scrapy list
